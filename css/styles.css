@@ -61,8 +61,6 @@ font-family: "Raleway", sans-serif;
             text-align: center;
             color: #fff;
             background-color: #2e2f42;
-                width: 1440px;
-                height: 600px;
     }
 .title-section-push {
         font-weight: 500;
@@ -105,32 +103,18 @@ font-family: "Raleway", sans-serif;
 .gallery-list {
         font-weight: 700;
         font-size: 36px;
-    
+        text-transform: capitalize;
         /* line-height: 40px; */
         line-height: 111%;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
         text-align: center;
+        background-color: #ffffff;
 }
 .section-team {
     background-color: #f4f4fd;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .footer-text {
         font-weight: 400;
