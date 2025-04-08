@@ -11,6 +11,10 @@ list-style-type: none;
 }
 a {
     text-decoration: none;
+    letter-spacing: 0.02em;
+}
+a, button {
+    font-family: inherit;
 }
 .logo {
 font-family: "Raleway", sans-serif;
