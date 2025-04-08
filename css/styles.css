@@ -63,7 +63,7 @@ font-family: "Raleway", sans-serif;
             text-align: center;
             color: #fff;
     }
-.title-section-push {
+.title-push {
         font-weight: 500;
         font-size: 16px;
         line-height: 150%;
@@ -72,8 +72,8 @@ font-family: "Raleway", sans-serif;
         background-color: #4d5ae5;
         cursor: pointer;
 }
-.title-section-push:focus,
-.title-section-push:hover {
+.title-push:focus,
+.title-push:hover {
  background-color: #404bbf;
 }
 .main-item {
