@@ -1,7 +1,10 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
+    font-size: 16px;
     background-color: #fff;
+    line-height: 1.5 ;
+    letter-spacing: 0.02em;
 }
 ul,li,ol {
 list-style-type: none;
@@ -50,31 +53,29 @@ font-family: "Raleway", sans-serif;
 .contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf; }
+
 .title-text {
     background-color: #2e2f42;
 }
 .title-text-styles {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
 
     /* line-height: 60px; */
     line-height: 107%;
-    letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
     }
-.title-push {
+.title-text-push {
         font-weight: 500;
         font-size: 16px;
-        line-height: 150%;
         letter-spacing: 0.04em;
         color: #fff;
         background-color: #4d5ae5;
         cursor: pointer;
 }
-.title-push:focus,
-.title-push:hover {
+.title-text-push:focus,
+.title-text-push:hover {
  background-color: #404bbf;
 }
 .main-item {
