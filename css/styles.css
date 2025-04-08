@@ -50,8 +50,10 @@ font-family: "Raleway", sans-serif;
 .contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf; }
-
-    .title-styles {
+.title-section {
+    background-color: #2e2f42;
+}
+.title-styles {
         font-weight: 700;
         font-size: 56px;
         
@@ -60,7 +62,6 @@ font-family: "Raleway", sans-serif;
             letter-spacing: 0.02em;
             text-align: center;
             color: #fff;
-            background-color: #2e2f42;
     }
 .title-section-push {
         font-weight: 500;
